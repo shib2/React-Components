@@ -96,5 +96,4 @@ In this task you will use the comments that are included in the dish object abov
     The comments should contain a <h4> header with the word "Comments".
     Remember to enclose the header and comments inside a <div> before returning the JSX code. Otherwise React will not do the layout correctly.
     If the comments are null, then you should return an empty <div>.
-    
-    ![tasks](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/du_hMzlMEei9LwoRWz3xkg_5b30647387dc5217ff2ee2c5c86e2fe3_Assignment1.png?expiry=1587945600000&hmac=QvTnBU6MLaQCLdSENCc9C8CQKGz3_ka-mWaOdCht14w)
+![tasks](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/du_hMzlMEei9LwoRWz3xkg_5b30647387dc5217ff2ee2c5c86e2fe3_Assignment1.png?expiry=1587945600000&hmac=QvTnBU6MLaQCLdSENCc9C8CQKGz3_ka-mWaOdCht14w)
